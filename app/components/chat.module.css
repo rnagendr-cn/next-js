@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+  max-width: 700px;
+  height: 600px;
+}
+
+.textArea {
+  width: 100%;
+  padding: 10px 20px;
+  border: 1px solid gray;
+  color: black;
+}
